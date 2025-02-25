@@ -34,7 +34,7 @@ AutoMech Repair System is an ERP solution that transforms the automobile repair 
 ##  Installation & Setup
 ###  Backend Setup
 # Clone the repository
-git clone https://github.com/yourusername/autorepair-erp.git
+git clone git@github.com:Nakecy/automech-repair.git
 cd autorepair-erp
 
 # Set up a virtual environment
@@ -129,8 +129,8 @@ npm start
 - **Dashboard:** Add analytics for mechanics & suppliers.
 
 ## Contributors
-Obed Omayio
-Alvine Allan
+1.Obed Omayio
+2.Alvine Allan
 
 ##  License
 This project is open-source and available under the **MIT License**.
